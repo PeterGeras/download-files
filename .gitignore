@@ -1,6 +1,10 @@
 .idea/
 venv/
-desktop.ini
 
-data/_input/*.*
-!data/_input/.gitkeep
+input/*.*
+!input/.gitkeep
+!input/example.xlsx
+
+logs/*
+
+output/*

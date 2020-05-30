@@ -2,14 +2,15 @@
 An application that uses multi-threading to download from a list of URLs
 
 
-### Input
-~\data\_input\URL.xlsx
+### Input file
+~\input\URL.xlsx
+Columns - FileName, URL
 
 ### Output
-~\data\output\
+~\output\
 
 ### Logs
-~\data\logs\
+~\logs\
 
 
 ## Git Command Line
